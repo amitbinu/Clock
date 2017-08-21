@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\amitb\.android\build-cache\08a20c036e291a9fa6dc6ad09b1e12fce8904b73\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\amitb\.android\build-cache\508cc6ffa5eda6b1af65cd92f9952b20e5e83f2f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\amitb\.android\build-cache\ffe5a3b5f94ee94ab693de45913a7e7a2b456b1b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\amitb\.android\build-cache\aa316608ac9be4d8da95228363277f0987c67be7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\amitb\.android\build-cache\6184e116370c8f375230ab70c483bd12941d8f5b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\amitb\.android\build-cache\a85fa09f963ea1a79b92404b7dce5f832bc56565\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\amitb\.android\build-cache\aba289b7954c0379ece9f8094a211f3888494e34\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\amitb\.android\build-cache\d307b433048591696638a9d18b714298d52a594e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\amitb\.android\build-cache\946237558be47a031e166037bfbdd18790e97450\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\amitb\.android\build-cache\9fdfbd063c6f8cece44dec6d18b0bc75d19b1a90\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.tech.bean.clock.MainActivity
+ADDED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\amitb\.android\build-cache\08a20c036e291a9fa6dc6ad09b1e12fce8904b73\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\amitb\.android\build-cache\508cc6ffa5eda6b1af65cd92f9952b20e5e83f2f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\amitb\.android\build-cache\ffe5a3b5f94ee94ab693de45913a7e7a2b456b1b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\amitb\.android\build-cache\aa316608ac9be4d8da95228363277f0987c67be7\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\amitb\.android\build-cache\6184e116370c8f375230ab70c483bd12941d8f5b\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\amitb\.android\build-cache\a85fa09f963ea1a79b92404b7dce5f832bc56565\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\amitb\.android\build-cache\aba289b7954c0379ece9f8094a211f3888494e34\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\amitb\.android\build-cache\46835bb64009295de3146d401cf8bb068477b88f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\amitb\.android\build-cache\d307b433048591696638a9d18b714298d52a594e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\amitb\.android\build-cache\946237558be47a031e166037bfbdd18790e97450\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\amitb\.android\build-cache\9fdfbd063c6f8cece44dec6d18b0bc75d19b1a90\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\amitb\.android\build-cache\08a20c036e291a9fa6dc6ad09b1e12fce8904b73\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amitb\Desktop\Clock\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\amitb\.android\build-cache\08a20c036e291a9fa6dc6ad09b1e12fce8904b73\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\amitb\.android\build-cache\508cc6ffa5eda6b1af65cd92f9952b20e5e83f2f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\amitb\.android\build-cache\ffe5a3b5f94ee94ab693de45913a7e7a2b456b1b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\amitb\.android\build-cache\aa316608ac9be4d8da95228363277f0987c67be7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\amitb\.android\build-cache\6184e116370c8f375230ab70c483bd12941d8f5b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\amitb\.android\build-cache\a85fa09f963ea1a79b92404b7dce5f832bc56565\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\amitb\.android\build-cache\aba289b7954c0379ece9f8094a211f3888494e34\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\amitb\.android\build-cache\46835bb64009295de3146d401cf8bb068477b88f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\amitb\.android\build-cache\d307b433048591696638a9d18b714298d52a594e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\amitb\.android\build-cache\946237558be47a031e166037bfbdd18790e97450\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\amitb\.android\build-cache\08a20c036e291a9fa6dc6ad09b1e12fce8904b73\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\amitb\.android\build-cache\08a20c036e291a9fa6dc6ad09b1e12fce8904b73\output\AndroidManifest.xml:26:9-47

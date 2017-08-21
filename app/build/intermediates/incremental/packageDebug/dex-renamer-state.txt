@@ -1,0 +1,7 @@
+#Fri Aug 18 16:45:23 EDT 2017
+base.0=C\:\\Users\\amitb\\Desktop\\Clock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5eba1ed60d4204270f29cc8c1066129a5543a144
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\amitb\\Desktop\\Clock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3387bee32fc1804ac640102eff1a60886e2a99a0\\classes.dex
+base.1=C\:\\Users\\amitb\\Desktop\\Clock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3387bee32fc1804ac640102eff1a60886e2a99a0
+file.0=C\:\\Users\\amitb\\Desktop\\Clock\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5eba1ed60d4204270f29cc8c1066129a5543a144\\classes.dex

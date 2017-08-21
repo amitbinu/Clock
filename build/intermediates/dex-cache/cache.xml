@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\amitb\Desktop\Clock\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45035ebad5bf1e010262693128b4ff044005ce29">
+        <dex dex="C:\Users\amitb\Desktop\Clock\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5eba1ed60d4204270f29cc8c1066129a5543a144\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amitb\Desktop\Clock\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\amitb\Desktop\Clock\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3387bee32fc1804ac640102eff1a60886e2a99a0\classes.dex" />
+    </item>
+
+</items>

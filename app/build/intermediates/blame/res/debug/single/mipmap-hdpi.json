@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\amitb\\Desktop\\Clock\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\amitb\\Desktop\\Clock\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\amitb\\Desktop\\Clock\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\start.png",
+        "source": "C:\\Users\\amitb\\Desktop\\Clock\\app\\src\\main\\res\\mipmap-hdpi\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\amitb\\Desktop\\Clock\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\amitb\\Desktop\\Clock\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\amitb\\Desktop\\Clock\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\delete.png",
+        "source": "C:\\Users\\amitb\\Desktop\\Clock\\app\\src\\main\\res\\mipmap-hdpi\\delete.png"
+    }
+]
